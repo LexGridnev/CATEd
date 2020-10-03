@@ -40,8 +40,7 @@ Create mysql databases
 ```sh
 echo "create database trade character set utf8; create database celery_result; create database portal_ticker;" | mysql -u root
 ```
-Note:
-If you have password authentication enabled for root, as described in the preceding paragraphs, you will need to use a different command to access the MySQL shell. The following will run your MySQL client with regular user privileges, and you will only gain administrator privileges within the database by authenticating:
+If you have password authentication enabled for root, you will need to use a different command to access the MySQL shell.
 ```sh
 echo "create database trade character set utf8; create database celery_result; create database portal_ticker;" | mysql -u root -p
 ```
