@@ -18,9 +18,9 @@ Main features:
 * Configurable buy/sell/hold logic, (allowed tokens and proportions);
 * Keeping the balances of different tokens at the configured levels;
 
-![home_page](https://github.com/OnGridSystems/CATEd/blob/master/images/home_page.jpg)
+![home_page](https://github.com/LexGridnev/CATEd/blob/master/images/home_page.jpg)
 
-![main_bot_page](https://github.com/OnGridSystems/CATEd/blob/master/images/final_screen.jpg)
+![main_bot_page](https://github.com/LexGridnev/CATEd/blob/master/images/final_screen.jpg)
 
 ## Install
 
@@ -30,7 +30,7 @@ Create python virtual env and activate it in your favorite way.
 
 Clone project
 ```sh
-git clone git@github.com:OnGridSystems/CATEd.git
+git clone git@github.com:LexGridnev/CATEd.git
 ```
 Go to project dir
 ```sh
